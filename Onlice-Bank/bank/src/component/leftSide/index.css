@@ -1,0 +1,292 @@
+.Mini_Main{
+    width: 340px;
+    height: 3798px;
+    background: var(--brand-wild-sand, #F4F4F4);
+}
+.Mini_Limit{
+    width: 292px;
+    margin: 0 auto;
+}
+.main{
+    height: 100%;
+    margin: 0 auto;
+}
+.name_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    padding-top: 25px;
+}
+.name_flex_par{
+    color: var(--brand-primary, #2B2D33);
+font-family: ALS Hauss;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 24px; /* 150% */
+}
+.card_background{
+    width: 272px;
+height: 96px;
+flex-shrink: 0;
+border-radius: 12px;
+background: rgba(88, 120, 170, 1);
+backdrop-filter: blur(6px);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+margin: 40px auto;
+}
+.general_balance{
+    color: var(--primary-pure-white, #FFF);
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+opacity: 0.64;
+margin: 0;
+padding: 0;
+margin-right: 137px;
+}
+.money_p{
+    color: var(--primary-pure-white, #FFF);
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px; /* 150% */
+margin: 0;
+padding: 0;
+}
+.money_eye_flex{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.cards_wallet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 94px;
+    margin-bottom: 32px;
+}
+.cards_p{
+    color: var(--brand-primary, #2B2D33);
+/* XL / 18 Medium */
+font-family: ALS Hauss;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; /* 155.556% */
+}
+
+.hidden_main_flex{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 12px;
+    margin-left: 12px;
+    margin-bottom: 32px;
+}
+.hidden_par1{
+    color: var(--seattle-100, #808185);
+
+/* M / 14 Regular */
+font-family: ALS Hauss;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 157.143% */
+}
+.hidden_par2{
+    color: var(--brand-primary, #2B2D33);
+
+/* L / 16 Medium */
+font-family: ALS Hauss;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 162.5% */
+}
+.hidden_child2{
+    border-bottom: 1px solid #D5D5D6;
+    width: 204px;
+}
+
+.account_mini_flex{
+    display: flex;
+    gap: 115px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.cards_p{
+    color: var(--brand-primary, #2B2D33);
+
+/* XL / 18 Medium */
+font-family: ALS Hauss;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; /* 155.556% */
+}
+
+
+.account_hidden_main_flex2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 12px;
+    margin-left: 12px;
+    margin-top: 32px;
+}
+.account_hidden_par1{
+    color: var(--seattle-100, #808185);
+
+    /* M / 14 Regular */
+    font-family: ALS Hauss;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 157.143% */
+}
+.account_hidden_par2{
+    color: var(--brand-primary, #2B2D33);
+
+    /* L / 16 Medium */
+    font-family: ALS Hauss;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+}
+.account_hidden_child2{
+    border-bottom: 1px solid #D5D5D6;
+    width: 204px;
+}
+
+.InfoZone{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 8px;
+    margin-left: 12px;
+    margin-top: 16px;
+}
+.infoZone_text{
+    color: var(--brand-accent, #5878AA);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: ALS Hauss;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px; /* 133.333% */
+}
+
+.credit_child_flex_mini{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 12px;
+    margin-left: 12px;
+    margin-top: 32px;
+}
+.credit_child_flex_mini2{
+    border-bottom: 1px solid #D5D5D6;
+    width: 204px;
+}
+.credit_par1{
+    color: var(--seattle-100, #808185);
+
+    /* M / 14 Regular */
+    font-family: ALS Hauss;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 157.143% */
+}
+.credit_par2{
+    color: var(--brand-primary, #2B2D33);
+
+    /* L / 16 Medium */
+    font-family: ALS Hauss;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+}
+.credit_par3{
+    color: var(--seattle-100, #808185);
+
+    /* M / 14 Regular */
+    font-family: ALS Hauss;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px; /* 157.143% */
+}
+.credit_flex_main{
+    display: flex;
+    gap: 171px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.credit_main_par{
+    color: var(--brand-primary, #2B2D33);
+
+    /* XL / 18 Medium */
+    font-family: ALS Hauss;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 155.556% */
+}
+
+.bonus_main_par{
+    color: var(--brand-primary, #2B2D33);
+
+    /* XL / 18 Medium */
+    font-family: ALS Hauss;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 155.556% */
+}
+.bonus_main_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 183px;
+    margin-top: 42px;
+}
+.bonus_child_flex_main{
+    display: flex;
+justify-content: flex-start;
+align-items: center;
+gap: 12px;
+margin-left: 12px;
+margin-top: 32px;
+}
+.child_flex_par1{
+    color: var(--seattle-100, #808185);
+
+/* M / 14 Regular */
+font-family: ALS Hauss;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 157.143% */
+}
+.child_flex_par2{
+    color: var(--brand-primary, #2B2D33);
+
+/* L / 16 Medium */
+font-family: ALS Hauss;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 162.5% */
+}

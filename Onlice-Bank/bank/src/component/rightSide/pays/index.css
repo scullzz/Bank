@@ -1,0 +1,199 @@
+.Pre_Main_Flex1{
+    display: flex;
+    justify-content: 
+    flex-start;
+    align-items: center;
+    gap: 900px;
+    margin-bottom: 32px;
+}
+.pays_page1{
+    color: var(--brand-primary, #2B2D33);
+
+/* H2 30 Medium */
+font-family: Navigo;
+font-size: 30px;
+font-style: normal;
+font-weight: 500;
+line-height: 38px; /* 126.667% */
+}
+.button_back{
+    width: 32px;
+height: 32px;
+flex-shrink: 0;
+fill: var(--brand-wild-sand, #F4F4F4);
+border: none;
+border-radius: 50%;
+}
+.button_front{
+    color: rgba(170, 171, 173, 1);
+}
+.Button_Flex_main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+.Main{
+    margin-top: 56px;
+}
+.slick-slide>div{
+    margin: 0 24px;
+}
+.slick-slide>div:nth-child(1){
+    margin-left: 0;
+}
+.slick-track{
+    margin: 0;
+}
+
+.main_data_flex_{
+    width: 1268px;
+} 
+.gos_back_{
+    height: 180px;
+    border-radius: 8px;
+    background: var(--brand-wild-sand, #F4F4F4);
+}
+.o{
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+
+.Transactoin_Main{
+    margin-top: 56px;
+}
+.Nav_Transactoin_Flex{
+    list-style: none;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 40px;
+    margin-bottom: 16px;
+}
+.t_child{
+    color: var(--seattle-100, #808185);
+font-family: ALS Hauss;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px; /* 162.5% */
+}
+.Transaction_Under_Line_Full{
+    height: 1px;
+    width: 1248px;
+    background: #E9EAEA;
+    margin-bottom: 32px;
+    display: flex;
+    justify-content: flex-start;
+    gap: 33px;
+}
+.Transaction_Under_Line_Child1{
+    height: 3px;
+    width: 168px;
+    border-radius: 1px;
+background: var(--brand-accent, #5878AA);
+visibility: hidden;
+}
+.Transaction_Under_Line_Child2{
+    height: 3px;
+    width: 121px;
+    border-radius: 1px;
+    background: var(--brand-accent, #5878AA);
+    visibility: hidden;
+}
+.Transaction_Under_Line_Child3{
+    height: 3px;
+    width: 145px;
+    border-radius: 1px;
+    background: var(--brand-accent, #5878AA);
+    visibility: hidden;
+}
+.Transaction_Under_Line_Child4{
+    height: 3px;
+    width: 138px;
+    border-radius: 1px;
+    background: var(--brand-accent, #5878AA);
+    visibility: hidden;
+}
+.Transact_One_Input{
+    color: var(--seattle-60, #AAABAD);
+
+/* XL / 18 Regular */
+font-family: ALS Hauss;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+padding: 18px 414px 18px 16px;
+border-radius: 8px;
+border: 1px solid var(--seattle-30, #D5D5D6);
+}
+.Transact_Two_Input{
+    color: var(--seattle-60, #AAABAD);
+
+    /* XL / 18 Regular */
+    font-family: ALS Hauss;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+    padding: 18px 392px 18px 16px;
+    border-radius: 8px;
+border: 1px solid var(--seattle-30, #D5D5D6);
+}
+.T_firt_inpt_flex{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 24px;
+}
+.Transact_Three_Input{
+    color: var(--seattle-60, #AAABAD);
+
+    /* XL / 18 Regular */
+    font-family: ALS Hauss;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+    padding: 18px 414px 18px 16px;
+    border-radius: 8px;
+border: 1px solid var(--seattle-30, #D5D5D6);
+}
+.T_second_input_flex{
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+    gap: 24px;
+}
+.Transact_Four_Button{
+    color: var(--text-white, #FFF);
+    border-radius: 8px;
+background: var(--button-primary-regular, #5878AA);
+    /* L / 16 Medium */
+    display: flex;
+width: 598px;
+padding: 19px 36px;
+justify-content: center;
+align-items: center;
+    font-family: ALS Hauss;
+    font-size: 16px;
+    font-style: normal;
+    text-align: center;
+    font-weight: 500;
+    line-height: 26px; /* 162.5% */
+    border-radius: 8px;
+border: 1px solid var(--seattle-30, #D5D5D6);
+}
+.Main_inputs_Flexes{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 24px;
+}

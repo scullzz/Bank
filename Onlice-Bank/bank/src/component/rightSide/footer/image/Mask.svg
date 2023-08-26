@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mask Group">
+<mask id="mask0_1213_6648" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="24">
+<circle id="Ellipse 42" cx="12" cy="12" r="12" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0_1213_6648)">
+<g id="248-russia 1">
+<path id="Vector" d="M27.5727 0H-3.5729C-5.08814 0 -6.31641 1.22826 -6.31641 2.74351V8.00021H30.3162V2.74351C30.3162 1.22826 29.0879 0 27.5727 0Z" fill="#F5F5F5"/>
+<path id="Vector_2" d="M-6.31641 21.2567C-6.31641 22.7719 -5.08814 24.0002 -3.5729 24.0002H27.5727C29.0878 24.0002 30.3162 22.7719 30.3162 21.2567V16H-6.31641V21.2567Z" fill="#FF4B55"/>
+<path id="Vector_3" d="M30.3162 8H-6.31641V15.9998H30.3162V8Z" fill="#41479B"/>
+</g>
+</g>
+</g>
+</svg>

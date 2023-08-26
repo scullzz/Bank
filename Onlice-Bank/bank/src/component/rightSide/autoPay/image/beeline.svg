@@ -1,0 +1,37 @@
+<svg width="49" height="48" viewBox="0 0 49 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ic_beeline" clip-path="url(#clip0_1213_6793)">
+<g id="Page 1">
+<mask id="mask0_1213_6793" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="49" height="48">
+<g id="mask0 outline">
+<g id="Clip 2">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M0.799805 24C0.799805 37.2549 11.5449 48 24.7998 48C38.0547 48 48.7998 37.2549 48.7998 24C48.7998 10.7451 38.0547 0 24.7998 0C11.5449 0 0.799805 10.7451 0.799805 24Z" fill="white"/>
+</g>
+</g>
+</mask>
+<g mask="url(#mask0_1213_6793)">
+<g id="Clip 2_2">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0.799805 24C0.799805 37.2549 11.5449 48 24.7998 48C38.0547 48 48.7998 37.2549 48.7998 24C48.7998 10.7451 38.0547 0 24.7998 0C11.5449 0 0.799805 10.7451 0.799805 24Z" fill="url(#paint0_radial_1213_6793)"/>
+</g>
+<g id="Fill 1">
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M42.3467 -1.92017H6.82672V7.67987H42.3467V-1.92017ZM6.82672 49.9204H42.3467V40.3204H6.82672V49.9204ZM-1.81348 30.2404H51.4665V17.7604H-1.81348V30.2404Z" fill="url(#paint1_linear_1213_6793)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_1213_6793" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(31.834 19.3136) rotate(103.777) scale(29.5362 29.5396)">
+<stop stop-color="#FBE993"/>
+<stop offset="0.426228" stop-color="#FDE622"/>
+<stop offset="1" stop-color="#F5B732"/>
+</radialGradient>
+<linearGradient id="paint1_linear_1213_6793" x1="0.736621" y1="-1.62081" x2="48.9501" y2="-1.62081" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2B2B2B"/>
+<stop offset="0.152836" stop-color="#131313"/>
+<stop offset="0.745954" stop-color="#131313"/>
+<stop offset="1" stop-color="#1B1B1B"/>
+</linearGradient>
+<clipPath id="clip0_1213_6793">
+<rect width="48" height="48" fill="white" transform="translate(0.799805)"/>
+</clipPath>
+</defs>
+</svg>

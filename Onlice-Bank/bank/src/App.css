@@ -1,0 +1,14 @@
+@import url(https://db.onlinewebfonts.com/c/af2bba52a607a39b7b92a72428ff47ca?family=ALS+Hauss+Medium);
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "ALS Hauss Medium";
+}
+
+.App{
+  width: 1680px;
+}
+.time{
+  display: flex;
+}

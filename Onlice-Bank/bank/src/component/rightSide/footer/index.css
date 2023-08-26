@@ -1,0 +1,132 @@
+.Main_Border{
+    width: 1248px;
+    border-top: 1px solid #E9EAEA;
+    border-bottom: 1px solid #E9EAEA;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.First_Block_Of_Links{
+    list-style:none;
+}
+.Second_Block_Of_Links{
+    list-style: none;
+}
+.link{
+    text-decoration: none;
+    color: var(--brand-primary, #2B2D33);
+
+/* M / 14 Regular */
+font-family: ALS Hauss;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 157.143% */
+}
+.flex1_{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 86px;
+}
+.label{
+    margin-bottom: 24px;
+}
+.Parag1{
+    color: var(--brand-primary, #2B2D33);
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px; /* 155.556% */
+}
+.Parag2{
+    color: var(--seattle-100, #808185);
+
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 157.143% */
+}
+.Parag5{
+    color: var(--brand-primary, #2B2D33);
+
+/* M / 14 Regular */
+font-family: ALS Hauss;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; /* 157.143% */
+}
+.BL_Flex2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+.flex2_{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 62px;
+    flex-direction: column;
+}
+.back_for_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+height: 48px;
+flex-shrink: 0;border-radius: 12px;
+background: var(--brand-white, #FFF);
+box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.06);
+}
+.BL_Flex1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 112px;
+}
+
+.Footer_Man_Flex{
+    width: 1248px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.foot_parag1{
+    color: var(--seattle-60, #AAABAD);
+font-size: 13px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px; /* 130.769% */
+letter-spacing: -0.13px;
+}
+.foot_flex_2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+.foot_flex_3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+.end_par{
+    color: var(--brand-primary, #2B2D33);
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px; /* 157.143% */
+}
+.connection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+}
